@@ -1,0 +1,8 @@
+{
+  "name": "ionicMeteor",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular-scroll-glue": "latest"
+  },
+  "private": true
+}
